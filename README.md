@@ -19,7 +19,7 @@ Date: Jun 01, 2020
   Exploratory Data Analysis
   
 # SetUp and Installations
-  Google Colaboratory/Jupyter Notebooks
+  Google Colaboratory/Jupyter Notebooks  <br />
   Python Libraries 
       Pandas  <br/>
       Numpy  <br/>

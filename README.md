@@ -15,19 +15,26 @@ Date: Jun 01, 2020
   1. Polynomial Regression
   2. Logistic Regression
 # Experimental Design
-  CRISP Methodology  <br/>
-  Exploratory Data Analysis
+  - CRISP Methodology  <br/>
+  - Exploratory Data Analysis
   
 # SetUp and Installations
-  Google Colaboratory/Jupyter Notebooks  <br />
-  Python Libraries 
-      Pandas  <br/>
-      Numpy  <br/>
-      Matplotlib  <br/>
-      Seaborn
+  - Google Colaboratory/Jupyter Notebooks  <br />
+  - Python Libraries 
+      * Pandas  <br/>
+      * Numpy  <br/>
+      * Matplotlib  <br/>
+      * Seaborn <br />
+      * Sklearn
 # Known Bugs
   None
 
 # Technologies Used
   Python
-  
+
+# Contact
+For Any Questions, Corrections, ... <br />
+Contact mercykubz.gmail.com
+
+# Licence
+MIT Licence

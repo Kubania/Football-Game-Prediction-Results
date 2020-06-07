@@ -34,7 +34,7 @@ Date: Jun 01, 2020
 
 # Contact
 For Any Questions, Corrections, ... <br />
-Contact mercykubz.gmail.com
+Contact me at [ mercykubania.gmail.com]
 
 # Licence
 MIT Licence

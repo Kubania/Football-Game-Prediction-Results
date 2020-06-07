@@ -4,7 +4,7 @@ Making Predictions of Football Game Results between Team 1 and Team 2 based on
       Rank of the Home and Away Team
       Tournament Type
 
-Author: Mercy M.Kubania
+Author: Mercy M.Kubania  <br/>
 Date: Jun 01, 2020
 
 # Specifying Questions
@@ -15,14 +15,15 @@ Date: Jun 01, 2020
   1. Polynomial Regression
   2. Logistic Regression
 # Experimental Design
+  CRISP Methodology  <br/>
   Exploratory Data Analysis
   
 # SetUp and Installations
   Google Colaboratory/Jupyter Notebooks
   Python Libraries 
-      Pandas
-      Numpy
-      Matplotlib
+      Pandas  <br/>
+      Numpy  <br/>
+      Matplotlib  <br/>
       Seaborn
 # Known Bugs
   None
